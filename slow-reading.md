@@ -1,4 +1,8 @@
-## Close and Slow Reading
+---
+title: Close and Slow Reading
+author: Dennis Tenen
+
+---
 
 Slow and close reading is an art rather than a science. We will continue to practice it in class, but in this exercise you are asked to develop your interpretation skills more formally. You should still imagine that you are addressing an audience of your friends, peers, and mentors: that means no frivolous verbiage, empty jargon, or pontification. At the very least your writing should aspire to clarity and candor, which at their best can reach precision, elegance, and unexpected insight.
 
